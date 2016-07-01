@@ -4,13 +4,13 @@
 
 public class BMW extends Car{
 	
-	public void start()
+	public void stop()
 	{
-		System.out.println("bmw starting");
+		System.out.println("bmw stopping");
 	}
 	
 	
-	public void theftsafety()
+	public void onlysafety()
 	{
 		System.out.println("I can");
 	}
